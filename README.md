@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Yokitha R
 
-<!--
-**Yokitha5/Yokitha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer with a strong interest in Data Structures, Algorithms, and Full Stack Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Electronics and Communication Engineering Undergraduate
+* Passionate about solving problems and building real-world applications
+* Currently focusing on Java, DSA, and backend development
+
+---
+
+## Skills
+
+* Java
+* Data Structures & Algorithms
+* Spring Boot
+* React
+* MySQL
+* HTML, CSS
+
+---
+
+## Projects
+
+### Sports Turf Slot Booking Web Application
+
+Full-stack application to book and manage sports turf slots with real-time availability and booking system.
+Tech Stack: Java, Spring Boot, React, MySQL
+
+---
+
+### INOXA - Smart Home Energy Management System
+
+IoT-based system for monitoring and optimizing electricity usage with automation features.
+Tech Stack: ESP32, MQTT
+
+---
+
+## Coding Profile
+
+* LeetCode: https://leetcode.com/u/Yokitha/
+
+---
+
+## Internship
+
+Embedded Systems & IoT Intern
+Worked on microcontrollers, sensors, and IoT communication protocols.
+
+---
+
+## Certifications
+
+* NPTEL - Internet of Things
+* NPTEL - Fuzzy Sets, Logic and Systems
+
+---
+
+## Contact
+
+Email: [yokitharamalingam@gmail.com](mailto:yokitharamalingam@gmail.com)
+GitHub: https://github.com/Yokitha5
+LinkedIn: https://linkedin.com/in/yokitha-ramalingam-278332296
