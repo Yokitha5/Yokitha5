@@ -2,14 +2,12 @@
 
 # Yokitha R
 
-### Software Developer in the Making · Java & DSA Enthusiast · Full Stack Learner
+### Software Developer in the Making | Java & DSA Enthusiast | Full Stack Learner
 
 *Bridging the gap between embedded systems and scalable web applications.*
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Yokitha/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yokitha-ramalingam-278332296)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokitharamalingam@gmail.com)
-
 </div>
 
 ---
