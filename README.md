@@ -56,7 +56,7 @@ An IoT-powered solution to monitor, automate, and optimize household electricity
 - Lightweight device-to-server communication over MQTT protocol
 - Automation triggers to reduce power usage intelligently
 
-> **Tech:** ESP32 · MQTT · Embedded C
+> **Tech:** ESP32 · MQTT 
 
 ---
 
