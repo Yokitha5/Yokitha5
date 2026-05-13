@@ -60,20 +60,6 @@ An IoT-powered solution to monitor, automate, and optimize household electricity
 
 ---
 
-## 📊 Coding Metrics
-
-<div align="center">
-
-![Yokitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yokitha5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokitha5&layout=compact&theme=tokyonight&hide_border=true)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Yokitha?theme=dark&font=Raleway&ext=activity)](https://leetcode.com/u/Yokitha/)
-
-</div>
-
----
-
 ## 💼 Experience & Certifications
 
 **🔌 Embedded Systems & IoT Intern**
