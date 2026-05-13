@@ -1,6 +1,6 @@
 <div>
 
-# 👩‍💻 Yokitha R
+# Yokitha R
 
 ### Software Developer in the Making · Java & DSA Enthusiast · Full Stack Learner
 
