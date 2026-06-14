@@ -78,7 +78,9 @@ An IoT-powered solution to monitor, automate, and optimize household electricity
 - 💬 **Ask me about:** Java, Spring Boot, React, or why IoT and software are better together.
 - 📫 **Reach me at:** yokitharamalingam@gmail.com
 
----
+## Linux-Hardening-Assistant:
+
+https://github.com/GowthamNagaraj25/linux-hardening-assistant
 
 <div align="center">
 
